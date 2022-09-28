@@ -51,6 +51,7 @@ public class myConnection {
 				System.exit(0);
 		    default:
 		    	System.out.println("enter valid choice ");
+			menu(stmt);
 			}
 		
 
